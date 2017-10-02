@@ -1,0 +1,8 @@
+{
+  "name": "Start on Heroku: Node.js",
+  "description": "Node.js app using Express 4",
+  "repository": "https://git.heroku.com/secret-sea-44042.git",
+  "logo": "https://secret-sea-44042.herokuapp.com/",
+  "keywords": ["node", "express", "static"],
+  "image": "heroku/nodejs"
+}
